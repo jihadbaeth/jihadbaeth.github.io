@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Provenance on Mohamed Jehad Baeth</title>
-    <link>https://mohamedjehadbaeth.github.io/tags/data-provenance/</link>
+    <link>https://jihadbaeth.github.io/tags/data-provenance/</link>
     <description>Recent content in Data Provenance on Mohamed Jehad Baeth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>PRONALIZ</title>
-      <link>https://mohamedjehadbaeth.github.io/project/pronaliz/</link>
+      <link>https://jihadbaeth.github.io/project/pronaliz/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mohamedjehadbaeth.github.io/project/pronaliz/</guid>
+      <guid>https://jihadbaeth.github.io/project/pronaliz/</guid>
       <description>&lt;p&gt;Social Media delivers its users a large-scale and easy-use platform, which cannot be delivered using traditional media (such as newspapers and television) to communicate and to socialize. This platform is based on technological foundations of Web 2.0, which defines collaboration and data sharing among Internet users and defined as a group of software that allows sharing of user-generated content.
 Social Media users face two important problems when using this platform: The first problem is the following: When the Social Media users receive a data (user-generated content) via Social Media software, they might not know exactly the quality of the data. Therefore, they may not be sure about the reliability and correctness of the data and how much emphasis should be given. And they may help the dissemination of the data. As a result, situations like information pollution could arise. The second problem is the following: Social Media software may change their privacy policies over time. In addition to this, users may not be able to set their privacy settings precisely according to the privacy measures that they demand. These policies determine copyrights of the user’s shared data. User’s data, which are intended to be disseminated among friend circle, may be disseminated via resharing within the social media. Users are not aware of who actually can see his/her data or apply a process on it. As a result, problems like violation of copyrights can arise.
 In order to solve the aforementioned two problems, users need information on the life cycle of the social media data. Provenance is defined as metadata that describes the origin, validity, quality and ownership of the data. Nowadays, we observe the lack of methodologies for detecting of information pollution and violation of copyrights of users’ shared data.
