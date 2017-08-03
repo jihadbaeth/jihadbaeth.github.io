@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Mohamed Jehad Baeth</title>
+    <link>https://mohamedjehadbaeth.github.io/publication/</link>
+    <description>Recent content in Publications on Mohamed Jehad Baeth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Mohamed Jehad Baeth</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Misinformation Detection in Social Networks Using Provenance Data</title>
+      <link>https://mohamedjehadbaeth.github.io/publication/skg2017/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedjehadbaeth.github.io/publication/skg2017/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Provenance in Social Computing: A Case Study</title>
+      <link>https://mohamedjehadbaeth.github.io/publication/mirela/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedjehadbaeth.github.io/publication/mirela/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Large Scale Synthetic Social Provenance Database</title>
+      <link>https://mohamedjehadbaeth.github.io/publication/dataset/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedjehadbaeth.github.io/publication/dataset/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Approach to Standalone Provenance Systems for Big Social Provenance Data</title>
+      <link>https://mohamedjehadbaeth.github.io/publication/yjmbigdatabased/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedjehadbaeth.github.io/publication/yjmbigdatabased/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Detection of Information Pollution and Violation of Copyrights in the Social Web</title>
+      <link>https://mohamedjehadbaeth.github.io/publication/socapaper/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohamedjehadbaeth.github.io/publication/socapaper/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
